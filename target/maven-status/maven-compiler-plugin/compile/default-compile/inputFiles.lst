@@ -1,7 +1,0 @@
-/docker/tomcat-java-demo/src/main/java/com/ly/controller/IndexController.java
-/docker/tomcat-java-demo/src/main/java/com/ly/mapper/UserMapper.java
-/docker/tomcat-java-demo/src/main/java/com/ly/controller/UserController.java
-/docker/tomcat-java-demo/src/main/java/com/ly/mapper/UserSqlProvider.java
-/docker/tomcat-java-demo/src/main/java/com/ly/model/User.java
-/docker/tomcat-java-demo/src/main/java/com/ly/dto/LayerDto.java
-/docker/tomcat-java-demo/src/main/java/com/ly/AppSimpleTomcat.java
