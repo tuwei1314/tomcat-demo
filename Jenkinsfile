@@ -6,7 +6,7 @@ pipeline {
      
     stage('代码拉取') {
 	 steps {
-	      sh 'git clone https://github.com/tuwei1314/tomcat-demo.git'
+	      sh 'git clone git@github.com:tuwei1314/tomcat-demo.git'
 	     
 	    }
 	}
